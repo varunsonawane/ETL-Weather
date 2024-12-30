@@ -96,7 +96,4 @@ Once the ETL pipeline is operational, it will regularly fetch and process weathe
 
 - **Machine Learning**: Develop predictive models based on historical weather data.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your contributions align with the project's objectives and maintain code quality standards.
 
