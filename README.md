@@ -1,7 +1,3 @@
-Here’s your README file with added emojis for better readability and engagement:  
-
----
-
 # ☁️ ETL-Weather ⛅  
 
 ETL-Weather is an automated pipeline designed to **Extract, Transform, and Load (ETL)** weather data from the **OpenWeather API** into a **PostgreSQL database**. 🚀 Leveraging **Apache Airflow** for orchestration, this project ensures efficient and reliable data processing, making it suitable for **analysis** 📊 and **visualization** 📉 tasks.  
